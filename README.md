@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-<h1 align="center">Hi 👋, I'm Agata</h1>
+<h1 align="center">Hi there👋, I'm Agata</h1>
 <h3 align="center">An italian MSc student in Financial risk and data analysis</h3>
 
 - 🌱 I’m currently learning **Models for risk and forecasting and macroeconomics and financial markets/macroeconometrics**
